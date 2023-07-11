@@ -17,4 +17,4 @@ Winning Screen:
 
 ![Winning Screen](https://raw.githubusercontent.com/JocelyneRonning/tic_tac_toe/main/screenshots/WinScreen.PNG)
 
-theme: Time machine
+theme:Time machine
