@@ -21,5 +21,6 @@ Winning Screen:
 
 ![Winning Screen](https://raw.githubusercontent.com/JocelyneRonning/tic_tac_toe/main/screenshots/WinScreen.PNG)
 
-# View Code
+# Code
+View the code used to build the game here:
 [Game Code](https://github.com/JocelyneRonning/tic_tac_toe/blob/main/tic_tac_toe.py)
