@@ -7,7 +7,9 @@ You can easily view this page through GitHub Pages using the following link:<br 
 # Screenshots
 Starting Screen:
 ![Starting Screen](https://raw.githubusercontent.com/JocelyneRonning/tic_tac_toe/main/screenshots/StartScreen.PNG)
+
 Game Play Screen:
 ![Game Play Screen](https://raw.githubusercontent.com/JocelyneRonning/tic_tac_toe/main/screenshots/GamePlay.PNG)
+
 Winning Screen:
 ![Winning Screen](https://raw.githubusercontent.com/JocelyneRonning/tic_tac_toe/main/screenshots/WinScreen.PNG)
