@@ -20,3 +20,6 @@ Game Play Screen:
 Winning Screen:
 
 ![Winning Screen](https://raw.githubusercontent.com/JocelyneRonning/tic_tac_toe/main/screenshots/WinScreen.PNG)
+
+# View Code
+![Link to Code](https://github.com/JocelyneRonning/tic_tac_toe/blob/main/tic_tac_toe.py)
