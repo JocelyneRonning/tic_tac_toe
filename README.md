@@ -1,4 +1,3 @@
-# Tic Tac Toe
 A game created for my "Programming" class in my 2nd semester of college.
 
 View this information through GitHub Pages using the following link:<br />
